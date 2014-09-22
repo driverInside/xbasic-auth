@@ -31,6 +31,12 @@ var express = require('express'),
 
 ### From file
 
+```json
+{
+  "user": "driver",
+  "password": "mySecretPassword"
+}
+```
 
 ```js
 var express = require('express'),
