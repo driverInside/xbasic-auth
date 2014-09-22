@@ -1,0 +1,25 @@
+{
+	"name": "xbasic-auth",
+	"description": "",
+	"author": "Hiram E. Pérez",
+	"version": "1.0.0",
+	"repository": {
+		"url": "driverInside/xbasic-auth"
+	},
+	"main": "index.js",
+	"engines": {
+		"node" : ">=0.8"
+	},
+	"keywords": [
+		"basic",
+		"auth",
+		"basic-authorization",
+		"basic authorization"
+	],
+	"files": [
+		"index.js",
+		"LICENCE",
+		"README.md"
+	],
+	"licence": "MIT"
+}
