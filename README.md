@@ -12,7 +12,7 @@ $ npm install xbasic-auth
 
 You need pass an object with the user/pass.
 
-**From object:** use the ***user*** and ***pass*** keys. The values must be *string*.
+**From object:** use the ***user*** and ***password*** keys. The values must be *string*.
 
 **From file** use the ***filename*** key. The file must be in your app path.
 
