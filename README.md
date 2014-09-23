@@ -10,7 +10,7 @@ $ npm install xbasic-auth
 
 ## Examples
 
-You need pass an object with the user/pass.
+You need pass an object with the user/password information.
 
 **From object:** use the ***user*** and ***password*** keys. The values must be *string*.
 
